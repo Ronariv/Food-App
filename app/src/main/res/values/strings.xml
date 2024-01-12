@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="api_key">153b1fd29f0e4faa8125500438d8f443</string>
+    <string-array name="meal_types">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+</resources>
